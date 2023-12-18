@@ -11,5 +11,5 @@ import { counterReducer } from './counter.reducer';
   styleUrl: './app.component.scss'
 })
 export class AppComponent {
-  title = 'ngrx-app';
+  title = 'learn-ngrx';
 }
