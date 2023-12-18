@@ -1,8 +1,6 @@
 import { Component } from '@angular/core';
 import { AsyncPipe, CommonModule } from '@angular/common';
 import { RouterOutlet } from '@angular/router';
-import { StoreModule } from '@ngrx/store';
-import { counterReducer } from './counter.reducer';
 @Component({
   selector: 'app-root',
   standalone: true,
