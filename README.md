@@ -81,7 +81,7 @@ By using NgRx, you can manage the state of your Angular application in a predict
 To install NgRx in your Angular application, you need to install the following packages:
 
 ```bash
-npm install @ngrx/store @ngrx/effects @ngrx/entity @ngrx/router-store @ngrx/schematics @ngrx/component-store
+npm install @ngrx/store @ngrx/effects @ngrx/entity @ngrx/router-store @ngrx/schematics @ngrx/component-store @ngrx/signals @ngrx/operators
 ```
 
 ## `@ngrx/store`
